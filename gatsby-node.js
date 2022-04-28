@@ -1,4 +1,4 @@
-const path = require(`path`)
+const path = require("path")
 const configuration = require("./cms/configuration/license.json")
 
 const { createPages } = require("@foudroyer/purity/dist/gatsby/createPages")
