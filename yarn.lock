@@ -1280,9 +1280,9 @@
   integrity sha512-/S98ZHxdXXCe/scEtWb3I90HXu0Bsr4XJTO0QEtnbIKVjLKWve1Qac0t/VqHq0BdW09n/xqSM8kLTpc5nUZ3kw==
 
 "@foudroyer/purity@^1.0.6":
-  version "1.14.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/purity/-/purity-1.14.0.tgz#aa557bf4090776136183ccb0ed284bc998544f6f"
-  integrity sha512-oo7jf6QbhW37F8/ywcJD3j5ng6soVEJiUCoBCeEFz5VieO38h845+imKRns6WyyXNJlzWbhyqYiwlKJRBirkIQ==
+  version "1.15.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/purity/-/purity-1.15.0.tgz#537b0d2f76d06bc3413e52f49faef3b43eb89acd"
+  integrity sha512-Bca/u+mpdDjQ3yWS/VEvy9k+KpIPdeuy8Ifj0Mw2GT54bCCi13A/qP+dbUAK/66POBcUkw22IUGw//1mK4LWZA==
   dependencies:
     "@foudroyer/interfaces" "0.0.14"
     "@headlessui/react" "1.5.0"
@@ -1290,6 +1290,7 @@
     axios "0.26.1"
     dayjs "1.11.0"
     gatsby "4.12.1"
+    gatsby-plugin-feed "4.13.0"
     gatsby-plugin-google-gtag "4.13.0"
     gatsby-plugin-image "2.11.1"
     gatsby-plugin-plausible "0.0.7"
@@ -7261,16 +7262,16 @@ gatsby-plugin-canonical-urls@4.5.0:
   dependencies:
     "@babel/runtime" "^7.15.4"
 
-gatsby-plugin-feed@4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-feed/-/gatsby-plugin-feed-4.5.0.tgz#4cb3fd9e7cf6b1ce9a66d2df8cdb4213afd08fee"
-  integrity sha512-pjHat1VyKe3oEZp7qfFPz4G8fgM9MxKVI0wN5O3XkrgveQKs6m/kvfsK8S1cKKM7ik6nDv668L+fCsdwpiRiFg==
+gatsby-plugin-feed@4.13.0:
+  version "4.13.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-feed/-/gatsby-plugin-feed-4.13.0.tgz#1ed1cfd3bb02ae554c79c4f51207da8a8e111ddd"
+  integrity sha512-wI8epzJ6G53wIOHc9lDv3TdckgIx4v9ZyAfbJfGo6bzHPgg8wVD3aW8iUZYwO4ca2d23boUEsrdiRhpPDoLqiw==
   dependencies:
     "@babel/runtime" "^7.15.4"
     "@hapi/joi" "^15.1.1"
     common-tags "^1.8.2"
     fs-extra "^10.0.0"
-    gatsby-plugin-utils "^2.5.0"
+    gatsby-plugin-utils "^3.7.0"
     lodash.merge "^4.6.2"
     rss "^1.2.2"
 
