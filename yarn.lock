@@ -1538,9 +1538,9 @@
   integrity sha512-yN7kbciD87WzLGc5539Tn0sApjyiGHAJgKvG9W8C7O+6c7qmoQMfVs0W4bX17eqz6C78QJqqFrtgdK5EWf6Qow==
 
 "@hapi/hoek@^9.0.0":
-  version "9.2.1"
-  resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-9.2.1.tgz#9551142a1980503752536b5050fd99f4a7f13b17"
-  integrity sha512-gfta+H8aziZsm8pZa0vj04KO6biEiisppNgA1kbJvFrrWu9Vm7eaUEy76DIxsuTaWvti5fkJVhllWc6ZTE+Mdw==
+  version "9.3.0"
+  resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-9.3.0.tgz#8368869dcb735be2e7f5cb7647de78e167a251fb"
+  integrity sha512-/c6rf4UJlmHlC9b5BaNvzAcFv7HZ2QHaV0D4/HNlBdvFnvQq8RI4kYdhyPCl7Xj+oWvTWQ8ujhqS53LIgAe6KQ==
 
 "@hapi/joi@^15.1.1":
   version "15.1.1"
@@ -3307,9 +3307,9 @@
     form-data "^3.0.0"
 
 "@types/node@*", "@types/node@>=6":
-  version "17.0.30"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.30.tgz#2c6e8512acac70815e8176aa30c38025067880ef"
-  integrity sha512-oNBIZjIqyHYP8VCNAV9uEytXVeXG2oR0w9lgAXro20eugRQfY002qr3CUl6BAe+Yf/z3CRjPdz27Pu6WWtuSRw==
+  version "17.0.31"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.31.tgz#a5bb84ecfa27eec5e1c802c6bbf8139bdb163a5d"
+  integrity sha512-AR0x5HbXGqkEx9CadRH3EBYx/VkiUgZIhP4wvPn/+5KIsgpNoyFaRlVe0Zlx9gRtg8fA06a9tskE2MSN7TcG4Q==
 
 "@types/node@16.9.1":
   version "16.9.1"
